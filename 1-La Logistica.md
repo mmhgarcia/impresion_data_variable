@@ -2,26 +2,29 @@
 
 ## Introducción
 
-Está constituida por todas las estaciones del <em>workflow</em> que procesan la materia prima (DATOS) 
-de distintas maneras hasta obtener el producto final. En el caso de la impresión variable, la materia 
-prima está constituida por LOS DATOS.  
+Está constituida por todas las estaciones del *flujo de trabajo* que procesan los datos y combinan los
+formularios y otros materiales hasta obtener el producto final. 
 
-Pongamos un ejemplo con 2 actores: CLIENTE Y PRODUCCION
+### Atención con este ejemplo:
 
-### Un ejemplo de logistica de produccion podria ser:
+  *Actores*: 2
+  
+  *Nombre actores*: CLIENTE Y PRODUCCION
 
-  - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS Y MEDIO DE ENVIO
-  - CLIENTE genera los DATOS y los envia a PRODUCCION
-  - PRODUCCION inicia SU LOGISTICA DE TRABAJO O WORKFLOW
-    - Recibe y Valida los datos
-    - Procesa electrónicamente los DATOS
-    - Imprime los DATOS en los sustratos o medios adecuados
-    - Recupera material deteriorado durante el proceso    
-    - Clasifica el material impreso
-    - Embala e identifica el producto
-    - Almacena temporalmente el producto terminado
-    - Despach el producto terminado al CLIENTE
-    - Informa a Administración para realizar la facturación del trabajo
+  *Flujo de trabao*:
+
+    - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS Y MEDIO DE ENVIO
+    - CLIENTE genera los DATOS y los envia a PRODUCCION
+    - PRODUCCION inicia FLUJO DE TRABAJO:
+      - *Recibe y Valida* los datos
+      - *Procesa electrónicamente* los DATOS
+      - *Imprime* los DATOS en los sustratos o medios adecuados
+      - *Recupera* material deteriorado durante el proceso    
+      - *Clasifica* el material impreso
+      - *Embala* e identifica el producto
+      - *Almacena* temporalmente el producto terminado
+      - *DespachA* el producto terminado al CLIENTE
+      - *Informa* a Administración para realizar la facturación del trabajo
 
 <hr>
 
