@@ -2,7 +2,7 @@
 
 ## Introducción
 
-**Nota Importante:**
+**Nota Importante:**  
 _Todas las explicaciones, análisis, diagramas y código fuente que encontrará en este repositorio son de mi creación y  propiedad, resultado de mi experiencia e investigaciones realizadas en  algo más de dos decadas de actividad._
 
 _El código fuente que encuentre aqui es de mi creación y propiedad, por lo cual puede hacer uso libre de él._
