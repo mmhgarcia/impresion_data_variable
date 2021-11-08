@@ -14,7 +14,7 @@ _Los manuales electrónicos que encontrará son de divulgación pública por par
 ------------
 ## Contenido
 
-**Aqui tiene "la receta"** de lo que se necesita para hacer una orden de **IMPRESION DE DATA VARIABALE**:
+**Aqui tiene "la receta"** de lo que se necesita para hacer una orden de **IMPRESION DE DATA VARIABALE CON IMPRESIÓN DE IMPACTO (MATRICIAL)**:
 
 
 Para ver información detaallada de los distintos temas, siga los enlaces.
