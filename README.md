@@ -21,7 +21,7 @@ _Los manuales electrónicos que encontrará son de divulgación pública por par
 - Estructuras de datos
 - Ficheros
 - Bases de datos
-- Manejo de impresoras de impacto con secuencias de escape
+- La impresora. Configuración y Programación de impresoras de impacto con secuencias de escape
 - Programación (generación, almacenamiento e impresión de spools)
 	- Procesamiento de datos
 	- Impresión y Manejo de Recuperaciones
