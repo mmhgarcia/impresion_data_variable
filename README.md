@@ -16,7 +16,7 @@ _Los manuales electrónicos que encontrará son de divulgación pública por par
 
 **Aqui tiene "la receta"** de lo que se necesita para hacer una orden de **IMPRESION DE DATA VARIABALE**:
 
-- Logística del proceso
+- Logística del proceso [Ver](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-La%20Logistica.md)
 - Infraestructura (equipos requeridos)
 - Estructuras de datos
 - Ficheros
