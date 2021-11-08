@@ -58,7 +58,7 @@ Al respecto, hagamos un análisis desde 2 perspectivas:
   
       - Distribución del área de trabajo para que se facilite el manejo de material, desplazamiento del personal y 
         facilidad de acceso/retiro de material.
-      - Planificación y distribución de las áreas de trabajo (almacén de material a producir, control, producción, 
+      - Planificación y distribución de las áreas de trabajo (almacén de FORMAS, control, producción, 
         acabado, embalaje, paletizado) 
       
   ### En cuanto a la LOGISTICA DETALLADA DEL PROCESO:
@@ -66,21 +66,21 @@ Al respecto, hagamos un análisis desde 2 perspectivas:
     En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada 
     estación de trabajo en cuanto a:
 
-      - FLUJOS DE ENTRADA Y SALIDA
-        - Información, listados, producto en proceso 
+######  - FLUJOS DE ENTRADA Y SALIDA
+  - Que producto entra?, listados de control, instrucciones, que producto sale? 
 
-      - TAREAS A REALIZAR
-        - Se define el rol de cada miembro de la estación y las tareas a su cargo
+######  - TAREAS A REALIZAR
+  - Se define el rol de cada miembro de la estación y las tareas a su cargo
 
-      - PERSONAL REQUERIDO
-        - Debe considerarse la cantidad de recursos requeridos en cada estación
-        - La cantidad va en función de los turnos de trabajo y el horario que se defina
+######  - PERSONAL REQUERIDO
+  - Debe considerarse la cantidad de recursos requeridos en cada estación
+  - La cantidad va en función de los turnos de trabajo y el horario que se defina
 
-      - RECURSOS QUE SE UTILIZAN
-        -  Lapices, marcadores, cajas, pega, grapadoras, entre otros y según el requerimiento.
+######  - RECURSOS QUE SE UTILIZAN
+  -  Boligrafos, Lapices, marcadores, cajas, pega, grapadoras, entre otros y según el requerimiento.
 
-      - OPTIMIZACION DE PROCESOS
-        - Es buscar la forma de realizar las tareas con precisión, calidad, menos esfuerzo y en el menor tiempo, 
-          asegurando que el producto que sale de la estación vaya a la sigueinte estación sin originar retrasos 
-          ni reprocesos. 
+######  - OPTIMIZACION DE PROCESOS
+  - Es buscar la forma de realizar las tareas con precisión, calidad, menos esfuerzo y en el menor tiempo, 
+    asegurando que el producto que sale de la estación vaya a la sigueinte estación sin originar retrasos 
+    ni reprocesos. 
 
