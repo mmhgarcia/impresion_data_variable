@@ -28,12 +28,30 @@ El ejemplo anterior ilustra, de manera genérica, la LOGISTICA DE PRODUCCION de 
 
 Al respecto, hagamos un análisis desde 2 perspectivas:
 
-  ### En cuanto a la LOGISTICA GENERAL DEL PROCESO:
+  ### En cuanto a la LOGISTICA GENERAL DEL PROCESO y AREA DE TRABAJO:
 
     Necesita definir:
-      - 
+    
+      - Volumen de impresiones a realizar
+      - Tiempo de producción            
+      - Canal de comunicación con el cliente para envío de datos
+      - Datos de las personas contacto en el cliente y los escalamientos
+      
+      - Computadoras para manejar la producción
+      - Cantidad de impresoras a utilizar
+      - Mesas apropiadas para colocar las impresoras. Deben facilitar la entrada y salida del papel     
+      - Impresora láser ó inyección para generar los listados e informes a usar durante el proceso
+      - Conexión a Internet
+      
+      - Turnos de trabajo y horarios
+      - Cantidad de personal para hacer la producción
+      - Sillas para el personal
+      - Suministro de agua y refrigerios
+      
+      - Asegurar ventilación suficiente al área de trabajo para evitar apagones de las impresoras por temperatura
+      - Asegurar sistema eléctrico y balanceo de carga según consumo (AMP) de cada impresora para evitar caidas de los breakers
   
-  
+      - Distribución del área de trabajo para que se facilite el manejo de material, desplazamiento del personal y facilidad de acceso/retiro de material.
 
   ### En cuanto a la LOGISTICA DETALLADA DEL PROCESO:
 
@@ -41,13 +59,17 @@ Al respecto, hagamos un análisis desde 2 perspectivas:
 
     - FLUJOS DE ENTRADA Y SALIDA
       - Información, listados, producto en proceso 
+
     - TAREAS A REALIZAR
       - Se define el rol de cada miembro de la estación y las tareas a su cargo
+
     - PERSONAL REQUERIDO
       - Debe considerarse la cantidad de recursos requeridos en cada estación
       - La cantidad va en función de los turnos de trabajo y el horario que se defina
+
     - RECURSOS QUE SE UTILIZAN
       -  Lapices, marcadores, cajas, pega, grapadoras, entre otros y según el requerimiento.
+
     - OPTIMIZACION DE PROCESOS
       - Es buscar la forma de realizar las tareas con precisión, calidad, menos esfuerzo y en el menor tiempo, asegurando que el producto que sale de la estación 
       vaya a la sigueinte estación sin originar retrasos ni reprocesos. 
