@@ -2,8 +2,9 @@
 
 ## Introducción
 
-Está constituida por todas las estaciones del <em>workflow</em> que procesan la materia prima de distintas maneras hasta obtener el producto final. En
-el caso de la impresión variable, la materia prima está constituida por LOS DATOS.  
+Está constituida por todas las estaciones del <em>workflow</em> que procesan la materia prima (DATOS) 
+de distintas maneras hasta obtener el producto final. En el caso de la impresión variable, la materia 
+prima está constituida por LOS DATOS.  
 
 Pongamos un ejemplo con 2 actores: CLIENTE Y PRODUCCION
 
@@ -24,7 +25,8 @@ Pongamos un ejemplo con 2 actores: CLIENTE Y PRODUCCION
 
 <hr>
 
-El ejemplo anterior ilustra, de manera genérica, la LOGISTICA DE PRODUCCION de un proceso de IMPRESION DE DATA VARIABLE.
+El ejemplo anterior ilustra, de manera genérica, la LOGISTICA DE PRODUCCION de un proceso de 
+IMPRESION DE DATA VARIABLE.
 
 Al respecto, hagamos un análisis desde 2 perspectivas:
 
@@ -37,9 +39,9 @@ Al respecto, hagamos un análisis desde 2 perspectivas:
             
       - Volumen de impresiones a realizar
       - Tiempo de producción esperado            
-      - Cantidad de impresoras a utilizar
+      - Cantidad de impresoras a utilizar + (una de respaldo por contingencia)
 
-      - Computadoras para manejar la producción
+      - Computadora para procesamiento de dataos y  producción
       - Accesorios para interconectar impresoras en red (router, cableado)
       - Mesas apropiadas para colocar las impresoras. Deben facilitar la entrada y salida del papel     
       - Impresora láser ó inyección para generar los listados e informes a usar durante el proceso
@@ -51,29 +53,34 @@ Al respecto, hagamos un análisis desde 2 perspectivas:
       - Suministro de agua y refrigerios
       
       - Asegurar ventilación suficiente al área de trabajo para evitar apagones de las impresoras por temperatura
-      - Asegurar sistema eléctrico y balanceo de carga según consumo (AMP) de cada impresora para evitar caidas de los breakers
+      - Asegurar sistema eléctrico y balanceo de carga según consumo (AMP) de cada impresora para evitar caidas de 
+        los breakers
   
-      - Distribución del área de trabajo para que se facilite el manejo de material, desplazamiento del personal y facilidad de acceso/retiro de material.
-      - Planificación y distribución de las áreas de trabajo (almacén de material a producir, control, producción, acabado, embalaje, paletizado) 
+      - Distribución del área de trabajo para que se facilite el manejo de material, desplazamiento del personal y 
+        facilidad de acceso/retiro de material.
+      - Planificación y distribución de las áreas de trabajo (almacén de material a producir, control, producción, 
+        acabado, embalaje, paletizado) 
       
   ### En cuanto a la LOGISTICA DETALLADA DEL PROCESO:
 
-    En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada estación de trabajo en cuanto a:
+    En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada 
+    estación de trabajo en cuanto a:
 
-    - FLUJOS DE ENTRADA Y SALIDA
-      - Información, listados, producto en proceso 
+      - FLUJOS DE ENTRADA Y SALIDA
+        - Información, listados, producto en proceso 
 
-    - TAREAS A REALIZAR
-      - Se define el rol de cada miembro de la estación y las tareas a su cargo
+      - TAREAS A REALIZAR
+        - Se define el rol de cada miembro de la estación y las tareas a su cargo
 
-    - PERSONAL REQUERIDO
-      - Debe considerarse la cantidad de recursos requeridos en cada estación
-      - La cantidad va en función de los turnos de trabajo y el horario que se defina
+      - PERSONAL REQUERIDO
+        - Debe considerarse la cantidad de recursos requeridos en cada estación
+        - La cantidad va en función de los turnos de trabajo y el horario que se defina
 
-    - RECURSOS QUE SE UTILIZAN
-      -  Lapices, marcadores, cajas, pega, grapadoras, entre otros y según el requerimiento.
+      - RECURSOS QUE SE UTILIZAN
+        -  Lapices, marcadores, cajas, pega, grapadoras, entre otros y según el requerimiento.
 
-    - OPTIMIZACION DE PROCESOS
-      - Es buscar la forma de realizar las tareas con precisión, calidad, menos esfuerzo y en el menor tiempo, asegurando que el producto que sale de la estación 
-      vaya a la sigueinte estación sin originar retrasos ni reprocesos. 
+      - OPTIMIZACION DE PROCESOS
+        - Es buscar la forma de realizar las tareas con precisión, calidad, menos esfuerzo y en el menor tiempo, 
+          asegurando que el producto que sale de la estación vaya a la sigueinte estación sin originar retrasos 
+          ni reprocesos. 
 
