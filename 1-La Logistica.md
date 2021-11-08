@@ -26,11 +26,13 @@ Pongamos un ejemplo con 2 actores: CLIENTE Y PRODUCCION
 
 El ejemplo anterior ilustra de manera muy genérica la LOGISTICA DE PRODUCCION de un proceso de IMPRESION DE DATA VARIABLE.
 
+
+
 En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada estación de trabajo en cuanto a:
 
   - FLUJOS DE ENTRADA Y SALIDA
   - TAREAS A REALIZAR
   - PERSONAL REQUERIDO
   - RECURSOS QUE UTILIZA
-  - OPTIMIZACION DE EJECUCION DE TAREAS
+  - OPTIMIZACION DE PROCESOS
 
