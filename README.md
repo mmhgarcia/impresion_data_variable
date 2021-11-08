@@ -32,5 +32,11 @@ Para ver información detaallada de los distintos temas, siga los enlaces.
 
 ## Por mi cuenta de Instagram (**@impresiondatavariable**) estaré notificando cada vez que añada contenido a este repositorio.
 
+## Puede descargar todo el contenido del repositorio a su computadora con solo clonarlo:
+
+##	git clone https://github.com/mmhgarcia/impresion_data_variable.git
+
+<hr>
+
 Espero que esta información le sea de provecho y beneficio.
 
