@@ -30,21 +30,23 @@ Al respecto, hagamos un análisis desde 2 perspectivas:
 
   ### En cuanto a la LOGISTICA GENERAL DEL PROCESO y AREA DE TRABAJO:
 
-    Necesita definir:
+    Se requiere considerar los siguientes aspectos:
     
-      - Volumen de impresiones a realizar
-      - Tiempo de producción            
       - Canal de comunicación con el cliente para envío de datos
       - Datos de las personas contacto en el cliente y los escalamientos
-      
-      - Computadoras para manejar la producción
+            
+      - Volumen de impresiones a realizar
+      - Tiempo de producción esperado            
       - Cantidad de impresoras a utilizar
+
+      - Computadoras para manejar la producción
+      - Accesorios para interconectar impresoras en red (router, cableado)
       - Mesas apropiadas para colocar las impresoras. Deben facilitar la entrada y salida del papel     
       - Impresora láser ó inyección para generar los listados e informes a usar durante el proceso
       - Conexión a Internet
       
-      - Turnos de trabajo y horarios
       - Cantidad de personal para hacer la producción
+      - Turnos de trabajo y horarios
       - Sillas para el personal
       - Suministro de agua y refrigerios
       
@@ -52,7 +54,8 @@ Al respecto, hagamos un análisis desde 2 perspectivas:
       - Asegurar sistema eléctrico y balanceo de carga según consumo (AMP) de cada impresora para evitar caidas de los breakers
   
       - Distribución del área de trabajo para que se facilite el manejo de material, desplazamiento del personal y facilidad de acceso/retiro de material.
-
+      - Planificación y distribución de las áreas de trabajo (almacén de material a producir, control, producción, acabado, embalaje, paletizado) 
+      
   ### En cuanto a la LOGISTICA DETALLADA DEL PROCESO:
 
     En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada estación de trabajo en cuanto a:
