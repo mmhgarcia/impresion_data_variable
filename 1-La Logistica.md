@@ -1,5 +1,26 @@
-# **1- LA LOGISTICA**
+# **1- LA LOGISTICA DE PRODUCCION**
 
-![WorkFlow](https://drive.google.com/file/d/1OlPFEViekGh8KfYxjQ1uOs_vZKBDnhdY/view)  
+## Introducción
 
+Está constituida por todas las estaciones del <em>workflow</em> que procesan la materia prima de distintas maneras hasta obtener el producto final. En
+el caso de la impresión variable, la materia prima está constituida por LOS DATOS.  
 
+Pongamos un ejemplo con 2 actores: CLIENTE Y PRODUCCION
+
+### Un ejemplo de logistica de produccion podria ser:
+
+  - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS Y MEDIO DE ENVIO
+  - CLIENTE genera los DATOS y los envia a PRODUCCION
+  - PRODUCCION inicia SU LOGISTICA DE TRABAJO O WORKFLOW
+    - Recibe y Valida los datos
+    - Procesa electrónicamente los DATOS
+    - Imprime los DATOS en los sustratos o medios adecuados
+    - Clasifica el material impreso
+    - Embala e identifica el producto
+    - Almacena temporalmente el producto terminado
+    - Despach el producto terminado al CLIENTE
+    - Informa a Administración para realizar la facturación del trabajo
+
+<hr>
+
+El ejemplo anterior ilustra de manera muy genérica la LOGISTICA DE PRODUCCION de un proceso de IMPRESION DE DATA VARIABLE.
