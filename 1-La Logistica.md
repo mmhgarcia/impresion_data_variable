@@ -2,72 +2,115 @@
 
 ## Introducción
 
-Está constituida por todas las estaciones del *flujo de trabajo* que procesan los datos y combinan los
-formularios y otros materiales hasta obtener el producto final. 
+**La logística de producción** está constituida por todas las estaciones del *flujo de trabajo*, los recursos 
+humanos/materiales y los procesos que se hacen sobre los datos y los insumos hasta obtener el producto final 
+esperado por el cliente. Ilustro el concepto con un ejemplo:
 
-### Atención con este ejemplo:
-
-  *Actores*: 2
+  *Número de Actores*: 2
   
-  *Nombre actores*: CLIENTE Y PRODUCCION
+  *Nombre de los actores*: CLIENTE Y PRODUCCION
 
-  *Flujo de trabaJo*:
+  *Fluo de Trabajo*:
 
-    - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS Y MEDIO DE ENVIO
-    - CLIENTE genera los DATOS y los envia a PRODUCCION
-    - PRODUCCION inicia FLUJO DE TRABAJO:
-      - *Recibe y Valida* los datos
-      - *Procesa electrónicamente* los DATOS
-      - *Imprime* los DATOS en los sustratos o medios adecuados
-      - *Recupera* material deteriorado durante el proceso    
-      - *Clasifica* el material impreso
-      - *Embala* e identifica el producto
-      - *Almacena* temporalmente el producto terminado
-      - *DespachA* el producto terminado al CLIENTE
-      - *Informa* a Administración para realizar la facturación del trabajo
+    - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS Y MEDIO DE ENVIO DE LOS DAATOS
+    - CLIENTE genera los DATOS y los envia a PRODUCCION        
+    - PRODUCCION inicia el FLUJO DE TRABAJO:
+      - RECIBE Y VALIDA los datos enviados por CLIENTE      
+      - PROCESA electrónicamente los DATOS
+      - IMPRIME los DATOS en los sustratos o medios adecuados
+      - RECUPERA material deteriorado durante el proceso    
+      - CLASIFICA el material impreso
+      - EMBALA e identifica el producto
+      - ALMACENA temporalmente el producto terminado
+      - DESPACHA el producto terminado al CLIENTE
+      - INFORMA a Administración para realizar la facturación del trabajo
 
 <hr>
 
-El ejemplo anterior ilustra, de manera genérica, la LOGISTICA DE PRODUCCION de un proceso de 
-IMPRESION DE DATA VARIABLE.
+Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en cuanto a:
 
-Al respecto, hagamos un análisis desde 2 perspectivas:
-
-  ### En cuanto a la LOGISTICA GENERAL DEL PROCESO y AREA DE TRABAJO:
-
-    Se requiere considerar los siguientes aspectos:
+ ### EL REQUERIMIENTO
+     
+  Considere:
     
-      - Canal de comunicación con el cliente para envío de datos
-      - Datos de las personas contacto en el cliente y los escalamientos
-            
-      - Volumen de impresiones a realizar
-      - Tiempo de producción esperado            
-      - Cantidad de impresoras a utilizar + (una de respaldo por contingencia)
+   - Volumen de impresiones a realizar
+   - Tiempo de producción esperado
+   - Acabado del producto            
 
-      - Computadora para procesamiento de dataos y  producción
-      - Accesorios para interconectar impresoras en red (router, cableado)
-      - Mesas apropiadas para colocar las impresoras. Deben facilitar la entrada y salida del papel     
-      - Impresora láser ó inyección para generar los listados e informes a usar durante el proceso
-      - Conexión a Internet
-      
-      - Cantidad de personal para hacer la producción
-      - Turnos de trabajo y horarios
-      - Sillas para el personal
-      - Suministro de agua y refrigerios
-      
-      - Asegurar ventilación suficiente al área de trabajo para evitar apagones de las impresoras por temperatura
-      - Asegurar sistema eléctrico y balanceo de carga según consumo (AMP) de cada impresora para evitar caidas de 
-        los breakers
+ ### LA COMUNICACIÓN CON EL CLIENTE
+     
+  Considere:
+    
+   - Canal de comunicación con el cliente
+   - Canal para el envío de datos
+   - Datos de las personas contacto en el cliente
+   - Niveles de escalamiento  
+
+ ### IMPRESORAS REQUERIDAS
+     
+  Considere:
   
-      - Distribución del área de trabajo para que se facilite el manejo de material, desplazamiento del personal y 
-        facilidad de acceso/retiro de material.
-      - Planificación y distribución de las áreas de trabajo (almacén de FORMAS, control, producción, 
-        acabado, embalaje, paletizado) 
-      
-  ### En cuanto a la LOGISTICA DETALLADA DEL PROCESO:
+   El modelo y cantidad de equipos va en funcion de:
+   
+   - El volumen a imprimir
+   - El tiempo de entrega
+   - Los turnos de trabajo
+   - El espacio fisico disponible
+   - El largo del formulario a imprimir
+   - El rendimiento estimado del equipo x unidad de tiempo
+   - El número de partes del formulario
+ 
+ ### CONSUMIBLES A UTILIZAR
+     
+  Considere:
+    
+   - Cintas para las impresoras (dato subjetivo y varia según cantidad de información impresa x formulario)
+   - Cinta adhesiva
+   - Boligrafos, marcadores
+   - Etiquetas
+   - Resma de papel para uso interno (listados y etiquetas)      
 
-    En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada 
-    estación de trabajo en cuanto a:
+ ### PERSONAL A CONTRATAR
+     
+  Considere:
+    
+   - Número de personas a contratar según cantidad de turnos y tiempo de producción
+   - Logistica de comida, transporte, refrigerios, agua, otros
+   - Sillas
+   - Turnos
+   - Horarios
+   - Tiempo extra           
+
+ ### EL AREA DE TRABAJO
+
+  Considere:
+    
+   - El espacio deisponible vs número de equipos a utilizar y el numero de personas en la linea de trabajo
+   - Asegurar ventilación suficiente hacia el área de trabajo para evitar apagones de las impresoras por temperatura
+   - Asegurar sistema eléctrico y balanceo de carga según consumo (AMP) de cada impresora para evitar caidas de los breakers
+   - Planificación y distribución de las áreas de trabajo (almacén de formas, producción, acabado, embalaje, paletizado) 
+   - Facilidad para el manejo de material hacia producción, desplazamiento del personal y facilidad de acceso/retiro de material
+   - Iluminación del área de trabajo
+   - Seguridad y Protección del personal y los recursos
+
+ ### EQUIPOS DE COMPUTACION, COMUNICACIÓN Y ACCESORIOS:
+
+  Considere los siguientes aspectos:
+    
+   - Computadora para procesamiento de dataos y manejo de la producción
+   - Accesorios para interconectar impresoras en red (router, cableado)
+   - Mesas apropiadas para colocar las impresoras. Deben facilitar la entrada y salida del papel     
+   - Impresora láser ó inyección para generar los listados e informes
+   - Conexión a Internet
+   - Herramientas software ofimática
+   - Software para procesamiento e impresión de la data variable
+         
+ <hr>
+ 
+ ### En cuanto a la LOGISTICA DETALLADA POR ESTACION DE TRABAJO:
+
+ En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada 
+ estación de trabajo en cuanto a:
 
 ######  - FLUJOS DE ENTRADA Y SALIDA
   - Que producto entra?, listados de control, instrucciones, que producto sale? 
