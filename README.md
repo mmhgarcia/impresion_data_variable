@@ -9,6 +9,8 @@ _El código fuente que encuentre aqui es de mi creación y propiedad, por lo cua
 
 _Los manuales electrónicos que encontrará son de divulgación pública por parte del fabricante y pueden ser descargados  gratuitamente de internet._ 
 
+**Cualquier duda, asesoría o consultoría puede contactar vía Instagram: @impresiondatavariable**
+
 ------------
 ## Contenido
 
