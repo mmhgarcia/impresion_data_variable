@@ -25,9 +25,9 @@ Para ver información detallada de los distintos temas, siga los enlaces.
 - Ficheros
 - Bases de datos
 - La impresora. Configuración y Programación de impresoras de impacto con secuencias de escape
-- Programación (generación, almacenamiento e impresión de spools)
+- Programación
 	- Procesamiento de datos
-	- Impresión y Manejo de Recuperaciones
+	- Impresión
 - Tareas Post-producción
 
 ## Por mi cuenta de Instagram (**@impresiondatavariable**) estaré notificando cada vez que añada contenido a este repositorio.
