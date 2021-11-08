@@ -15,6 +15,7 @@ Pongamos un ejemplo con 2 actores: CLIENTE Y PRODUCCION
     - Recibe y Valida los datos
     - Procesa electrónicamente los DATOS
     - Imprime los DATOS en los sustratos o medios adecuados
+    - Recupera material deteriorado durante el proceso    
     - Clasifica el material impreso
     - Embala e identifica el producto
     - Almacena temporalmente el producto terminado
@@ -24,3 +25,12 @@ Pongamos un ejemplo con 2 actores: CLIENTE Y PRODUCCION
 <hr>
 
 El ejemplo anterior ilustra de manera muy genérica la LOGISTICA DE PRODUCCION de un proceso de IMPRESION DE DATA VARIABLE.
+
+En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada estación de trabajo en cuanto a:
+
+  - FLUJOS DE ENTRADA Y SALIDA
+  - TAREAS A REALIZAR
+  - PERSONAL REQUERIDO
+  - RECURSOS QUE UTILIZA
+  - OPTIMIZACION DE EJECUCION DE TAREAS
+
