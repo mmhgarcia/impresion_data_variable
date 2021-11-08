@@ -2,6 +2,9 @@
 
 ## Introducción
 
+Un proceso de impresión de data variable es una tarea compleja que requiere análisis, planificación y organización
+para poder manejar todos los detalles de preparación y lógística de producción.
+
 **La logística de producción** está constituida por todas las estaciones del *flujo de trabajo*, los recursos 
 humanos/materiales y los procesos que se hacen sobre los datos y los insumos hasta obtener el producto final 
 esperado por el cliente. Ilustro el concepto con un ejemplo:
@@ -27,11 +30,11 @@ esperado por el cliente. Ilustro el concepto con un ejemplo:
 
 <hr>
 
-Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en cuanto a:
+Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspectivas en cuanto a:
 
  ### EL REQUERIMIENTO
      
-  Considere:
+  Considera:
     
    - Volumen de impresiones a realizar
    - Tiempo de producción esperado
@@ -39,7 +42,7 @@ Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en 
 
  ### LA COMUNICACIÓN CON EL CLIENTE
      
-  Considere:
+  Considera:
     
    - Canal de comunicación con el cliente
    - Canal para el envío de datos
@@ -48,7 +51,7 @@ Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en 
 
  ### IMPRESORAS REQUERIDAS
      
-  Considere:
+  Considera:
   
    El modelo y cantidad de equipos va en funcion de:
    
@@ -62,7 +65,7 @@ Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en 
  
  ### CONSUMIBLES A UTILIZAR
      
-  Considere:
+  Considera:
     
    - Cintas para las impresoras (dato subjetivo y varia según cantidad de información impresa x formulario)
    - Cinta adhesiva
@@ -72,7 +75,7 @@ Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en 
 
  ### PERSONAL A CONTRATAR
      
-  Considere:
+  Considera:
     
    - Número de personas a contratar según cantidad de turnos y tiempo de producción
    - Logistica de comida, transporte, refrigerios, agua, otros
@@ -83,7 +86,7 @@ Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en 
 
  ### EL AREA DE TRABAJO
 
-  Considere:
+  Considera:
     
    - El espacio deisponible vs número de equipos a utilizar y el numero de personas en la linea de trabajo
    - Asegurar ventilación suficiente hacia el área de trabajo para evitar apagones de las impresoras por temperatura
@@ -95,7 +98,7 @@ Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en 
 
  ### EQUIPOS DE COMPUTACION, COMUNICACIÓN Y ACCESORIOS:
 
-  Considere los siguientes aspectos:
+  Considera los siguientes aspectos:
     
    - Computadora para procesamiento de dataos y manejo de la producción
    - Accesorios para interconectar impresoras en red (router, cableado)
@@ -129,4 +132,12 @@ Respecto al ejemplo anterior, hagamos un análisis desde varias perspectivas en 
   - Es buscar la forma de realizar las tareas con precisión, calidad, menos esfuerzo y en el menor tiempo, 
     asegurando que el producto que sale de la estación vaya a la sigueinte estación sin originar retrasos 
     ni reprocesos. 
+
+<hr>
+
+Espero que esta información le sirva de guía y marco referencial caso de tener un requerimiento de impresión de alto volumen.
+
+### Caso de dudas puede contactarme via instagram: @impresiondatavariable
+
+😁👍
 
