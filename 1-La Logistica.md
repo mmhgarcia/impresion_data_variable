@@ -24,15 +24,31 @@ Pongamos un ejemplo con 2 actores: CLIENTE Y PRODUCCION
 
 <hr>
 
-El ejemplo anterior ilustra de manera muy genérica la LOGISTICA DE PRODUCCION de un proceso de IMPRESION DE DATA VARIABLE.
+El ejemplo anterior ilustra, de manera genérica, la LOGISTICA DE PRODUCCION de un proceso de IMPRESION DE DATA VARIABLE.
 
+Al respecto, hagamos un análisis desde 2 perspectivas:
 
+  ### En cuanto a la LOGISTICA GENERAL DEL PROCESO:
 
-En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada estación de trabajo en cuanto a:
+    Necesita definir:
+      - 
+  
+  
 
-  - FLUJOS DE ENTRADA Y SALIDA
-  - TAREAS A REALIZAR
-  - PERSONAL REQUERIDO
-  - RECURSOS QUE UTILIZA
-  - OPTIMIZACION DE PROCESOS
+  ### En cuanto a la LOGISTICA DETALLADA DEL PROCESO:
+
+    En esta etapa se requiere analizar de MACRO A MICRO el WORKFLOW O FLUJO DE TRABAJO y analizar en detalle cada estación de trabajo en cuanto a:
+
+    - FLUJOS DE ENTRADA Y SALIDA
+      - Información, listados, producto en proceso 
+    - TAREAS A REALIZAR
+      - Se define el rol de cada miembro de la estación y las tareas a su cargo
+    - PERSONAL REQUERIDO
+      - Debe considerarse la cantidad de recursos requeridos en cada estación
+      - La cantidad va en función de los turnos de trabajo y el horario que se defina
+    - RECURSOS QUE SE UTILIZAN
+      -  Lapices, marcadores, cajas, pega, grapadoras, entre otros y según el requerimiento.
+    - OPTIMIZACION DE PROCESOS
+      - Es buscar la forma de realizar las tareas con precisión, calidad, menos esfuerzo y en el menor tiempo, asegurando que el producto que sale de la estación 
+      vaya a la sigueinte estación sin originar retrasos ni reprocesos. 
 
