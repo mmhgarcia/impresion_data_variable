@@ -11,7 +11,7 @@ formularios y otros materiales hasta obtener el producto final.
   
   *Nombre actores*: CLIENTE Y PRODUCCION
 
-  *Flujo de trabao*:
+  *Flujo de trabaJo*:
 
     - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS Y MEDIO DE ENVIO
     - CLIENTE genera los DATOS y los envia a PRODUCCION
