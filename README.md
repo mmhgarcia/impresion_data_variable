@@ -5,7 +5,7 @@
 **Nota Importante:**  
 _Todas las explicaciones, análisis, diagramas y código fuente que encontrará en este repositorio son de mi creación y  propiedad, resultado de mi experiencia como analista/programador y responsable de la ejecución de procesos  de impresión variable en  algo más de dos decadas de actividad._
 
-_El código fuente que encuentre aqui es de mi creación y propiedad, por lo cual puede hacer uso libre de él._
+_Puede hacer uso libre del material aqui publicado._
 
 _Los manuales electrónicos que encontrará son de divulgación pública por parte del fabricante y pueden ser descargados  gratuitamente de internet._ 
 
