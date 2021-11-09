@@ -6,7 +6,7 @@
 
 Un **workflow, o flujo de trabajo**, es un conjunto de actividades relacionadas, que son completadas en un determinado orden para alcanzar un objetivo especifico. Estas actividades, o tareas, son realizadas en las distintas estaciones de la linea de producción por los llamados **participantes» del proceso**, que pueden ser personas, procesos automatizados con software ó por máquinas.
 
-
+<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 
 
