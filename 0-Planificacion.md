@@ -50,7 +50,7 @@ La planificación para organizar y preparar el entorno de trabajo debe considera
 - Inducción sobre trabajo a realizar y manejo de material pesado de forma segura
 
 #### AREA DE TRABAJO
-- Estudie espacio deisponible VS ( area de produccion, area de acabado, area de materiales)
+- Estudie el espacio disponible VS ( area de produccion, area de acabado, area de materiales)
 - Asegure una ventilación suficiente hacia el área de trabajo para evitar apagones de las impresoras por temperatura
 - Asegure el sistema eléctrico y balanceo de carga según consumo (AMPERIOS) de cada impresora para evitar caidas de los breakers
 - Planifique y distribuya las áreas de trabajo (almacén de formas, producción, acabado, embalaje, paletizado)
