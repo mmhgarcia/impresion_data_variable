@@ -4,8 +4,11 @@
 
 ## Introducción
 
-**La logística de producción** está constituida por todas las estaciones del *flujo de trabajo*, las tareas que realiza cada estación,
-el producto que recibe y entrega cada una hasta obtener el producto final esperado por el cliente.
+Un **workflow, o flujo de trabajo**, es un conjunto de actividades relacionadas, que son completadas en un determinado orden para alcanzar un objetivo especifico. Estas actividades, o tareas, son realizadas en las distintas estaciones de la linea de producción por los llamados **participantes» del proceso**, que pueden ser personas, procesos automatizados con software ó por máquinas.
+
+
+
+
 
 Ilustro el concepto con un ejemplo:
 
