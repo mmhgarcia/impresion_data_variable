@@ -1,4 +1,4 @@
-# **1- LA LOGISTICA DE PRODUCCION**
+# **1- LOGISTICA DE PRODUCCION**
 
 ## Introducción
 
@@ -9,13 +9,15 @@ para poder manejar todos los detalles de preparación y lógística de producci�
 humanos/materiales y los procesos que se hacen sobre los datos y los insumos hasta obtener el producto final 
 esperado por el cliente. Ilustro el concepto con un ejemplo:
 
+  *Proceso*: **Impresión de Data Variable**
+
   *Número de Actores*: 2
   
   *Nombre de los actores*: CLIENTE Y PRODUCCION
 
-  *Fluo de Trabajo*:
+  *Flujo de Trabajo*:
 
-    - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS Y MEDIO DE ENVIO DE LOS DAATOS
+    - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS, MEDIO DE ENVIO, OTROS
     - CLIENTE genera los DATOS y los envia a PRODUCCION        
     - PRODUCCION inicia el FLUJO DE TRABAJO:
       - RECIBE Y VALIDA los datos enviados por CLIENTE      
@@ -23,14 +25,14 @@ esperado por el cliente. Ilustro el concepto con un ejemplo:
       - IMPRIME los DATOS en los sustratos o medios adecuados
       - RECUPERA material deteriorado durante el proceso    
       - CLASIFICA el material impreso
-      - EMBALA e identifica el producto
-      - ALMACENA temporalmente el producto terminado
-      - DESPACHA el producto terminado al CLIENTE
-      - INFORMA a Administración para realizar la facturación del trabajo
+      - EMBALA e IDENTIFICA el producto
+      - ALMACENA el producto terminado
+      - DESPACHA al CLIENTE
+      - INFORMA
 
 <hr>
 
-Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspectivas en cuanto a:
+Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspectivas:
 
  ### EL REQUERIMIENTO
      
@@ -40,7 +42,7 @@ Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspecti
    - Tiempo de producción esperado
    - Acabado del producto            
 
- ### LA COMUNICACIÓN CON EL CLIENTE
+ ### COMUNICACIÓN CON EL CLIENTE
      
   Considera:
     
@@ -55,7 +57,8 @@ Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspecti
   
    La posibilidad de alquilar los equipos dado su alto costo.
   
-   El modelo y cantidad de equipos va en funcion de:   
+   El modelo y cantidad de equipos va en funcion de:
+   - Tecnología de impresión requerida (impacto, láser, inyección, transferencia)
    - El volumen a imprimir
    - El tiempo de entrega
    - Los turnos de trabajo
@@ -74,7 +77,7 @@ Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspecti
    - Etiquetas
    - Resma de papel para uso interno (listados y etiquetas)      
 
- ### PERSONAL A CONTRATAR
+ ### PERSONAL
      
   Considera:
     
@@ -85,7 +88,7 @@ Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspecti
    - Horarios
    - Tiempo extra           
 
- ### EL AREA DE TRABAJO
+ ### AREA DE TRABAJO
 
   Considera:
     
@@ -101,7 +104,7 @@ Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspecti
 
   Considera los siguientes aspectos:
     
-   - Computadora para procesamiento de dataos y manejo de la producción
+   - Computadora para procesamiento de datos y manejo de la producción
    - Accesorios para interconectar impresoras en red (router, cableado)
    - Mesas apropiadas para colocar las impresoras. Deben facilitar la entrada y salida del papel     
    - Impresora láser ó inyección para generar los listados e informes
