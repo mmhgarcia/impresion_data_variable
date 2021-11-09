@@ -51,10 +51,11 @@ Respecto a nuestro ejemplo anterior, hagamos un análisis desde varias perspecti
 
  ### IMPRESORAS REQUERIDAS
      
-  Considera:
+  Considere:
   
-   El modelo y cantidad de equipos va en funcion de:
-   
+   La posibilidad de alquilar los equipos dado su alto costo.
+  
+   El modelo y cantidad de equipos va en funcion de:   
    - El volumen a imprimir
    - El tiempo de entrega
    - Los turnos de trabajo
