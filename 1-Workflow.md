@@ -1,33 +1,42 @@
-# **1- LOGISTICA DE PRODUCCION**
+### IMPRESION DE DATA VARIABLE
+
+# **1- WORKFLOW O FLUJO DE TRABAJO**
 
 ## Introducción
 
-Un proceso de impresión de data variable es una tarea compleja que requiere análisis, planificación y organización
-para poder manejar todos los detalles de preparación y lógística de producción.
+**La logística de producción** está constituida por todas las estaciones del *flujo de trabajo*, las tareas que realiza cada estación,
+el producto que recibe y entrega cada una hasta obtener el producto final esperado por el cliente.
 
-**La logística de producción** está constituida por todas las estaciones del *flujo de trabajo*, los recursos 
-humanos/materiales y los procesos que se hacen sobre los datos y los insumos hasta obtener el producto final 
-esperado por el cliente. Ilustro el concepto con un ejemplo:
+Ilustro el concepto con un ejemplo:
 
   *Proceso*: **Impresión de Data Variable**
 
-  *Número de Actores*: 2
-  
-  *Nombre de los actores*: CLIENTE Y PRODUCCION
+  *Actores*: CLIENTE Y PRODUCCION
 
-  *Flujo de Trabajo*:
+  ** FLUJO DE TRABAJO**:
 
     - CLIENTE Y PRODUCCION acuerdan detalles referente a DATOS, MEDIO DE ENVIO, OTROS
+    
     - CLIENTE genera los DATOS y los envia a PRODUCCION        
-    - PRODUCCION inicia el FLUJO DE TRABAJO:
+    
+    - PRODUCCION INICIA FLUJO DE TRABAJO:
+      
       - RECIBE Y VALIDA los datos enviados por CLIENTE      
+      
       - PROCESA electrónicamente los DATOS
-      - IMPRIME los DATOS en los sustratos o medios adecuados
+      
+      - PRODUCCION IMPRIME los DATOS en los sustratos o medios adecuados
+      
       - RECUPERA material deteriorado durante el proceso    
+      
       - CLASIFICA el material impreso
+      
       - EMBALA e IDENTIFICA el producto
+      
       - ALMACENA el producto terminado
+      
       - DESPACHA al CLIENTE
+      
       - INFORMA
 
 <hr>
