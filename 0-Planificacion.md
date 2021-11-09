@@ -20,18 +20,17 @@ La planificación para organizar y preparar el entorno de trabajo debe considera
 - Niveles de escalamiento
 
 #### IMPRESORAS REQUERIDAS
-  Considere la posibilidad de alquilar los equipos dado su alto costo.
-
-  El modelo y cantidad de equipos va en funcion de:
+  
+  El **modelo y cantidad de impresoras** a utilizar va en funcion de:
 
   - Tecnología de impresión requerida (impacto, láser, inyección, transferencia)
   - El volumen a imprimir
   - El tiempo de entrega
   - Los turnos de trabajo
   - El espacio fisico disponible
-  - El largo del formulario a imprimir
   - El rendimiento estimado del equipo x unidad de tiempo
   - El número de partes del formulario
+  - Considere la posibilidad de alquilar los equipos dado su alto costo
 
 #### CONSUMIBLES A UTILIZAR
 
@@ -51,19 +50,19 @@ La planificación para organizar y preparar el entorno de trabajo debe considera
 - Inducción sobre trabajo a realizar y manejo de material pesado de forma segura
 
 #### AREA DE TRABAJO
-- El espacio deisponible vs número de equipos a utilizar y el numero de personas en la linea de trabajo
-- Asegurar ventilación suficiente hacia el área de trabajo para evitar apagones de las impresoras por temperatura
-- Asegurar sistema eléctrico y balanceo de carga según consumo (AMP) de cada impresora para evitar caidas de los breakers
-- Planificación y distribución de las áreas de trabajo (almacén de formas, producción, acabado, embalaje, paletizado)
-- Facilidad para el manejo de material hacia producción, desplazamiento del personal y facilidad de acceso/retiro de material
+- Estudie espacio deisponible VS ( area de produccion, area de acabado, area de materiales)
+- Asegure una ventilación suficiente hacia el área de trabajo para evitar apagones de las impresoras por temperatura
+- Asegure el sistema eléctrico y balanceo de carga según consumo (AMPERIOS) de cada impresora para evitar caidas de los breakers
+- Planifique y distribuya las áreas de trabajo (almacén de formas, producción, acabado, embalaje, paletizado)
+- Considere la facilidad para el manejo de material hacia producción, desplazamiento del personal y facilidad de acceso/retiro de material
 - Iluminación del área de trabajo
 - Seguridad y Protección del personal y los recursos
-- Area segura y protegida para colocar los formularios a imprimir y el producto terminado
+- Asigne un área segura y protegida para colocar el material y el producto terminado
 
-#### EQUIPOS DE COMPUTACION, COMUNICACIÓN Y ACCESORIOS:
+#### EQUIPOS DE TRABAJO, COMUNICACIÓN Y ACCESORIOS:
 - Computadora para procesamiento de datos y manejo de la producción
 - Accesorios para interconectar impresoras en red (router, cableado)
-- Mesas apropiadas para colocar las impresoras. Deben facilitar la entrada y salida del papel
+- Mueble de soporte para colocar las impresoras. Debe facilitar la carga/salida del papel hacia/desde la impresora 
 - Impresora láser ó inyección para generar los listados e informes
 - Conexión a Internet
 - Herramientas software ofimática
