@@ -19,7 +19,7 @@ _Los manuales electrónicos que encontrará son de divulgación pública por par
 
 Para ver información detallada de los distintos temas, siga los enlaces.
 
-- Planificación 
+- Planificación [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/0-planificacion.md)
 - Logística del proceso [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-La%20Logistica.md)
 - Infraestructura
 - Estructuras de datos
