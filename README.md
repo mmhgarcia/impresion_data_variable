@@ -20,7 +20,7 @@ _Los manuales electrónicos que encontrará son de divulgación pública por par
 Para ver información detallada de los distintos temas, siga los enlaces.
 
 - Planificación [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/0-Planificacion.md)
-- Workflow o Flujo de Trabajo [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-La%20Logistica.md)
+- Workflow o Flujo de Trabajo [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-Workflow.md)
 - Infraestructura
 - Estructuras de datos
 - Ficheros
