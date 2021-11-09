@@ -37,8 +37,11 @@ Para ver información detallada de los distintos temas, siga los enlaces.
 
 <hr />
 ##	Canales:  
+
 ####	Instagram: @impresiondatavariable  
-####	Telegram: @impresiondatavariable  
+
+####	Telegram: t.me/impresiondatavariable 
+
 ####	Github: https://rb.gy/qwxh0s  
 
 
