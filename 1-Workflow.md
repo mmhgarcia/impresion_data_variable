@@ -25,7 +25,7 @@ Un **workflow, o flujo de trabajo**, es un conjunto de actividades relacionadas,
       - ENVIA LOS DATOS A PRODUCCION
     
     - PRODUCCION:      
-      - RECIBE LOS DATOS POR CORREO o EN CD
+      - RECIBE LOS DATOS DEL CLIENTE POR CORREO o EN CD (o por otro medio)
       - VALIDA LOS DATOS
         - CASO DE ERROR, SOLICITA DATOS AL CLIENTE NUEVAMENTE
       - PROCESA ELECTRONICAMENTE LOS DATOS
