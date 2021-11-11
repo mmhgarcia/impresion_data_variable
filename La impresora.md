@@ -2,6 +2,7 @@
 
 # LA IMPRESORA
 
+[Especificaciones](https://github.com/mmhgarcia/impresion_data_variable/blob/master/ESPECIFICACIONES%20TECNICAS%20IMPRESORA%20MATRICIAL%20EPSON%20PARA%20PRODUCCION.rar)
 <hr>
 
 Espero que esta información le sirva de guía y marco referencial para sus procesos de producción.
