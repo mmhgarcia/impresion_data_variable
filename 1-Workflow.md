@@ -8,7 +8,7 @@ Un **workflow, o flujo de trabajo**, es un conjunto de actividades relacionadas,
 
 ## EJEMPLO:
 
-### ** Proceso* 
+### Proceso a Realizar 
    IMPRIMIR INVITACIONES PARA CLIENTES VIP
   
 ### **Requisitos**  
