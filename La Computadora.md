@@ -30,7 +30,7 @@ Las computadoras de **DESARROLLO Y PRODUCCION** deben configurarse  para **MAPEA
   8-16 GB RAM
 
   **Storage**
-  Optional: 256 GB internal Solid State Drive (SSD) 
+  Optional: 256 GB internal Solid State Drive (SSD)  
   1 TB internal HDD
 
   **Monitor/Display**
