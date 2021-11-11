@@ -26,8 +26,10 @@ Para ver información detallada de los distintos temas, siga los enlaces.
    [Workflow o Flujo de Trabajo](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-Workflow.md)  
 		
 ## INFRAESTRUCTURA
-	- La computadora de procesamiento - Especificaciones técnicas y de software
-	- La impresora. Configuración
+
+   [La computadora de produccion - Especificaciones técnicas](https://github.com/mmhgarcia/impresion_data_variable/blob/master/La%20Computadora.md)  
+
+   [La impresora - Configuración y programación](https://github.com/mmhgarcia/impresion_data_variable/blob/master/La%20impresora.md)  
 	
 ## PREPARACION DEL SOFTWARE DE IMPRESIÓN
 	- Estructuras de datos Y Ficheros
