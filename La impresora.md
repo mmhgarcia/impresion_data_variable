@@ -6,6 +6,8 @@
 
 ![](./images/dfx9000.jpg)
 
+La **DFX-9000** es el "caballo de batalla" de las impresoras de impacto de la EPSON. Diseñada para trabajar "duro", alto volumen, de manera continua, recomendada como "la mejor" para trabajos de impresión matricial, rápida, genera muy poco calor, tiene alimentación con tractores par la parte frontal y posterior, 110V, 10amp de consumo, panel digital de control.
+
 [Especificaciones y Caracteristicas Generales](https://github.com/mmhgarcia/impresion_data_variable/blob/master/ESPECIFICACIONES%20TECNICAS%20IMPRESORA%20MATRICIAL%20EPSON%20PARA%20PRODUCCION.rar)
 
 [Manual del Programador, Comandos de Fábrica y Secuencias de Escape](https://github.com/mmhgarcia/impresion_data_variable/blob/master/MANUAL%20DE%20COMANDOS%20DE%20PROGRAMACION%20IMPRESORAS%20MATRICIALES%20EPSON.rar)
