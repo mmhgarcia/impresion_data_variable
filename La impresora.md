@@ -4,7 +4,7 @@
 
 ## EPSON DFX-9000
 
-[](images/dfx9000.jpg)
+![](./images/dfx9000.jpg)
 
 [Especificaciones y Caracteristicas Generales](https://github.com/mmhgarcia/impresion_data_variable/blob/master/ESPECIFICACIONES%20TECNICAS%20IMPRESORA%20MATRICIAL%20EPSON%20PARA%20PRODUCCION.rar)
 
