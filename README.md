@@ -19,9 +19,11 @@ _Los manuales electrónicos que encontrará son de divulgación pública por par
 
 Para ver información detallada de los distintos temas, siga los enlaces.
 
-## LOS PREPARATIVOS  
-	Planificación[](https://github.com/mmhgarcia/impresion_data_variable/blob/master/0-Planificacion.md)  
-	[Workflow o Flujo de Trabajo](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-Workflow.md)  
+## LOS PREPARATIVOS
+  
+   [Planificación](https://github.com/mmhgarcia/impresion_data_variable/blob/master/0-Planificacion.md)  
+
+   [Workflow o Flujo de Trabajo](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-Workflow.md)  
 		
 ## INFRAESTRUCTURA
 	- La computadora de procesamiento - Especificaciones técnicas y de software
