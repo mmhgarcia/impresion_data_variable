@@ -12,8 +12,10 @@ Un **workflow, o flujo de trabajo**, es un conjunto de actividades relacionadas,
    IMPRIMIR INVITACIONES PARA CLIENTES VIP
   
 ### **Requisitos**  
-   - Ordenar datos por por ESTADO-CIUDAD
-   - Embalar el material por ESTADO + CIUDAD
+   - Ordenar electrónicamente los datos por por ESTADO-CIUDAD
+   - Aprobar el producto previo al proceso de producción
+   - Imprimir las invitaciones en en sustrato que indique el cliente
+   - Embalar e Identificar el material por ESTADO + CIUDAD
       
 ### **FLUJO DE TRABAJO**  
   
