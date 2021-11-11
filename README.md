@@ -19,24 +19,45 @@ _Los manuales electrónicos que encontrará son de divulgación pública por par
 
 Para ver información detallada de los distintos temas, siga los enlaces.
 
-- Planificación [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/0-Planificacion.md)
-- Workflow o Flujo de Trabajo [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-Workflow.md)
-- Infraestructura
-- Estructuras de datos
-- Ficheros
-- Bases de datos
-- La impresora. Configuración y Programación de impresoras de impacto con secuencias de escape
-- Programación
-	- Procesamiento de datos
-	- Impresión
-- Tareas Post-producción
+## LOS PREPARATIVOS  
+	- Planificación [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/0-Planificacion.md)
+	- Workflow o Flujo de Trabajo [Ver más...](https://github.com/mmhgarcia/impresion_data_variable/blob/master/1-Workflow.md)
+	
+## INFRAESTRUCTURA
+	- La computadora de procesamiento - Especificaciones técnicas y de software
+	- La impresora. Configuración
+	
+## PREPARACION DEL SOFTWARE DE IMPRESIÓN
+	- Estructuras de datos Y Ficheros
+	- Bases de datos
+	- Programación del software de impresión con manejo de las impresoras a nivel de comandos nativos del equipo para mayor performance
+	  y menor tiempo de impresión.
+	
+## PROCESAMIENTO DE DATOS
+	- Ejecución del software para procesar los datos
+	- Validar resultados
+	
+## VISTO BUENO DEL CLIENTE
+	- Impresión de Muestras para el Cliente
+	- Correcciones al software caso de observaciones
+	
+## LA PRODUCCIÓN
+	- Impresión de Listados de Control
+	- Inicio de la Producción
+	- Controles
+	- Recuperaciones  
+	
+## TAREAS POST-PRODUCCIÓN
+	- Clasificación del material  
+	- Embalaje  
+	- Identificación
 
+<HR>
+	
 ## Por mi cuenta de Instagram (**@impresiondatavariable**) estaré notificando cada vez que añada contenido a este repositorio.
 
-## Puede descargar todo el contenido del repositorio a su computadora con solo clonarlo:
-####	git clone https://github.com/mmhgarcia/impresion_data_variable.git
-
 <hr />
+
 ##	Canales:  
 
 ####	Instagram: @impresiondatavariable  
@@ -47,6 +68,7 @@ Para ver información detallada de los distintos temas, siga los enlaces.
 
 ####	Gmail: mmhgarcia@gmail.com  
 
+<hr>
 
-Espero que esta información le sea de provecho y beneficio.
+Espero que esta información le sea de provecho y beneficio para sus procesos de producción.
 
