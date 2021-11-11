@@ -27,9 +27,9 @@ Para ver información detallada de los distintos temas, siga los enlaces.
 		
 ## INFRAESTRUCTURA
 
-   [La computadora de produccion - Especificaciones técnicas](https://github.com/mmhgarcia/impresion_data_variable/blob/master/La%20Computadora.md)  
+   [Las computadoras - Especificaciones técnicas](https://github.com/mmhgarcia/impresion_data_variable/blob/master/La%20Computadora.md)  
 
-   [La impresora - Configuración y programación](https://github.com/mmhgarcia/impresion_data_variable/blob/master/La%20impresora.md)  
+   [Las impresoras - Configuración y programación](https://github.com/mmhgarcia/impresion_data_variable/blob/master/La%20impresora.md)  
 	
 ## PREPARACION DEL SOFTWARE DE IMPRESIÓN
 	- Estructuras de datos Y Ficheros
