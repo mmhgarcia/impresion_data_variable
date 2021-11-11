@@ -16,7 +16,26 @@ La computadora de **PRODUCCION** debe ubicarse estrategicamente cerca del área 
 
 Las computadoras de **DESARROLLO Y PRODUCCION** deben configurarse  para **MAPEAR LOS PUERTOS VIRTUALES ASOCIADOS A CADA IMPRESORA**, ELLO EN CASO DE TENER MAS DE UNA IMPRESORA EN EL AREA DE PRODUCCION. **Esto lo explicaré en otros articulos y le mostraré como hacerlo*.
 
-### ESPECIFICACIONES
+## ESPECIFICACIONES
 
-  -  
+  *Una sugerenncia* seria para un equipo DESKTOP / ESCRITORIO*
+
+  **Processor (CPU)**
+  Intel Core i5 (sixth generation or newer) or equivalent
+
+  **Operating System:**
+  Microsoft Windows 10 x64
+
+  **Memory**
+  8-16 GB RAM
+
+  **Storage**
+  Optional: 256 GB internal Solid State Drive (SSD) 
+  1 TB internal HDD
+
+  **Monitor/Display**
+  17" LCD monitor
+
+  **Network Adaptor:**
+  802.11ac 2.4/5 GHz wireless adapter
 
