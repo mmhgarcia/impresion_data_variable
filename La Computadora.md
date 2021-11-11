@@ -38,4 +38,12 @@ Las computadoras de **DESARROLLO Y PRODUCCION** deben configurarse  para **MAPEA
 
   **Network Adaptor:**  
   802.11ac 2.4/5 GHz wireless adapter
+  
+  <hr>
+
+Espero que esta información le sirva de guía y marco referencial para sus procesos de producción.
+
+#### Caso de dudas, preguntas o si requiere servicio de consultoría, puede contactarme via instagram: @impresiondatavariable
+
+👍
 
