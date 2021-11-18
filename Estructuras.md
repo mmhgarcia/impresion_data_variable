@@ -62,11 +62,53 @@ Clasificación:
    Una base de datos es una colección de información organizada de forma que un software pueda seleccionar rápidamente los fragmentos de datos que 
    necesite. 
    
-   Las bases de datos tradicionales o **RELACIONALES** se organizan en **TABLAS** 
+      Las bases de datos tradicionales o **RELACIONALES** se organizan en **TABLAS** 
       
-   Las **TABLAS** están definidas por los **CAMPOS**
+      Las **TABLAS** están definidas por los **CAMPOS**
    
-   Las **TABLAS son el Almacen de los DATOS**
+      Las **TABLAS son el Almacen de los DATOS**
 
-
+   Existen distintos manejadores de bases de datos relacionales:
+   
+      - MySQL
+      
+      - POSTGRE
+      
+      - MS-SQL SERVER
+      
+      - SQLITE
+      
+   Veamos la siguiente relacion:
+   
+      BASE DE DATOS      
+         TABLA 1         
+            CAMPOS
+         TABLA 2
+            CAMPOS
+         TABLA 3
+            CAMPOS
+      
+   Ahora apliquemos la definicion a un modelo ficticio:
+   
+   **BASE DE DATOS --> DEMO** (contenedor)  
+      
+   **PRODUCTO**  (tabla)
+   - ID   
+   - CODIGO   
+   - NOMBRE   
+   - PRECIO     
+   - EXISTENCIA           
+      
+   **CLIENTE**  (tabla)
+   - ID  
+   - CODIGO  
+   - NOMBRE  
+   - DIRECCION  
+   - TELEFONO  
+           
+   **ESTADO**  (tabla)
+   - ID  
+   - CODIGO  
+   - NOMBRE  
+           
   
