@@ -36,17 +36,14 @@ Para ver información detallada de los distintos temas, siga los enlaces.
    [Estructuras de datos](https://github.com/mmhgarcia/impresion_data_variable/blob/master/Estructuras%20de%20datos)
    
 ## Los siguientes enlaces aun no están implementados....
-   [Ficheros]()
    
-   [Bases de Datos]()
-
    [Spools de Impresión]()
 
    [Secuencias de ESCAPE]()
 
    [Secuencias de ESCAPE y Spools de Impresión]()
 
-   [Software - El Módulo de Procesamiento de Datos]()
+   [Software - El Procesamiento de Datos]()
 
    [Software - El Módulo de Impresión]()
 
