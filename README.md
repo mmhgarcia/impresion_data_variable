@@ -32,7 +32,7 @@ Para ver información detallada de los distintos temas, siga los enlaces.
    [La impresora - Configuración y programación](https://github.com/mmhgarcia/impresion_data_variable/blob/master/La%20impresora.md)  
 	
 ## PREPARACION DEL SOFTWARE DE IMPRESIÓN
-	- Estructuras de datos Y Ficheros
+	- [Estructuras de datos Y Ficheros](https://github.com/mmhgarcia/impresion_data_variable/blob/master/Estructuras%20de%20datos)
 	- Bases de datos
 	- Programación del software de impresión con manejo de las impresoras a nivel de comandos nativos del equipo para mayor performance
 	  y menor tiempo de impresión.
