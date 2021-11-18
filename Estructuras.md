@@ -43,6 +43,11 @@ Clasificación:
          
        La extensión TXT representa "textfile" (archivo de texto), que sustituyó a su antiguo nombre "flatfile" (archivo sin formato).
 
+       Ejemplo de *Fichero TXT* con **CAMPOS DE LONGITUD FIJA** - NO LLEVA CABECERA
+              
+       ![Fichero TXT](https://github.com/mmhgarcia/impresion_data_variable/blob/master/images/fichero_txt.JPG)
+      
+       
   - **Fichero tipo CSV**
     
        Son archivos sin formatos especiales, son archivos planos.
@@ -53,7 +58,9 @@ Clasificación:
        Las columnas quedan delimitadas por el caracter escogido mientras que cada fila se define mediante una línea adicional en el fichero. 
         
        Se pueden importar facilmente desde menejadores de bases de datos
-            
+
+       ![Fichero TXT](https://github.com/mmhgarcia/impresion_data_variable/blob/master/images/fichero_txt.JPG)
+
 **Base de datos** 
 
    Para definirla aplica perfectamente la similitud con un *Libro de Excel*
