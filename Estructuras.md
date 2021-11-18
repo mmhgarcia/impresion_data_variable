@@ -54,8 +54,19 @@ Clasificación:
             
 **Base de datos** 
 
-Una base de datos es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que 
-necesite. Una base de datos es un sistema de archivos electrónico. Las bases de datos tradicionales se organizan por campos, registros y archivos.
+   Para definirla aplica perfectamente la similitud con un *Libro de Excel*
+   
+      - Un Libro de Excel es un Contenedor de Hojas con Información
+      - Una Base de datos es un Contenedor de Tablas con información
+
+   Una base de datos es una colección de información organizada de forma que un software pueda seleccionar rápidamente los fragmentos de datos que 
+   necesite. 
+   
+   Las bases de datos tradicionales o **RELACIONALES** se organizan en **TABLAS** 
+      
+   Las **TABLAS** están definidas por los **CAMPOS**
+   
+   Las **TABLAS son el Almacen de los DATOS**
 
 
   
