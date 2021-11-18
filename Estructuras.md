@@ -87,17 +87,19 @@ Clasificación:
             CAMPOS
          TABLA 3
             CAMPOS
+            
+         *Puede tener tantas tablas como requiera*
       
    Ahora apliquemos la definicion a un modelo ficticio:
    
    **BASE DE DATOS --> DEMO** (contenedor)  
       
    **PRODUCTO**  (tabla)
-   - ID   
-   - CODIGO   
-   - NOMBRE   
-   - PRECIO     
-   - EXISTENCIA           
+   - ID           (numerico y clave primaria)  
+   - CODIGO       (sting)  
+   - NOMBRE       (string)  
+   - PRECIO       (numerico)    
+   - EXISTENCIA   (numerico)          
       
    **CLIENTE**  (tabla)
    - ID  
@@ -110,5 +112,12 @@ Clasificación:
    - ID  
    - CODIGO  
    - NOMBRE  
-           
+
+<hr />
+
+Estos son los 02 elementos *FUNDAMENTALES* que se utilizan para el manejo de datos en ordenes de **Impresión de Data Variable**
+
+Los **CLIENTES** generan **LA DATA** en *FICHEROS* para cuando van a ser enviados a **ENTIDADES EXTERNAS** para su manejo.
+
+Eso es todo en lo referente a **ESTRUCTURAS DE DATOS**.
   
