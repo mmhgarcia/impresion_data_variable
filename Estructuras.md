@@ -59,7 +59,9 @@ Clasificación:
         
        Se pueden importar facilmente desde menejadores de bases de datos
 
-       ![Fichero TXT](https://github.com/mmhgarcia/impresion_data_variable/blob/master/images/fichero_txt.JPG)
+       El primer registro es la **CABECERA**, son los nombres de las columnas
+
+       ![Fichero TXT](https://github.com/mmhgarcia/impresion_data_variable/blob/master/images/fichero_csv.JPG)
 
 **Base de datos** 
 
