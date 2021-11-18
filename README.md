@@ -33,7 +33,7 @@ Para ver información detallada de los distintos temas, siga los enlaces.
 	
 ## PREPARACION DEL SOFTWARE DE IMPRESIÓN
 
-   [Estructuras de datos](https://github.com/mmhgarcia/impresion_data_variable/blob/master/Estructuras%20de%20datos)
+   [Estructuras de datos](https://github.com/mmhgarcia/impresion_data_variable/blob/master/Estructuras.md)
    
 ## Los siguientes enlaces aun no están implementados....
    
