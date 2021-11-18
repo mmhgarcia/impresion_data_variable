@@ -35,6 +35,8 @@ Clasificación:
      
      Personalmente recomiendo este formato.
      
+     ![Fichero Excel](https://github.com/mmhgarcia/impresion_data_variable/blob/master/images/fichero_excel.jpg)
+     
   - **Fichero TXT o Archivo Plano**
            
        Los archivos TXT sirven como almacenes de datos a la vez que evitan las complicaciones propias de otros formatos de archivo.
