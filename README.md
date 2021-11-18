@@ -32,15 +32,24 @@ Para ver información detallada de los distintos temas, siga los enlaces.
    [La impresora - Configuración y programación](https://github.com/mmhgarcia/impresion_data_variable/blob/master/La%20impresora.md)  
 	
 ## PREPARACION DEL SOFTWARE DE IMPRESIÓN
-	- [Estructuras de datos Y Ficheros](https://github.com/mmhgarcia/impresion_data_variable/blob/master/Estructuras%20de%20datos)
-	- Bases de datos
-	- Programación del software de impresión con manejo de las impresoras a nivel de comandos nativos del equipo para mayor performance
-	  y menor tiempo de impresión.
-	
-## PROCESAMIENTO DE DATOS
-	- Ejecución del software para procesar los datos
-	- Validar resultados
-	
+
+   [Estructuras de datos](https://github.com/mmhgarcia/impresion_data_variable/blob/master/Estructuras%20de%20datos)
+   
+## Los siguientes enlaces aun no están implementados....
+   [Ficheros]()
+   
+   [Bases de Datos]()
+
+   [Spools de Impresión]()
+
+   [Secuencias de ESCAPE]()
+
+   [Secuencias de ESCAPE y Spools de Impresión]()
+
+   [Software - El Módulo de Procesamiento de Datos]()
+
+   [Software - El Módulo de Impresión]()
+
 ## VISTO BUENO DEL CLIENTE
 	- Impresión de Muestras para el Cliente
 	- Correcciones al software caso de observaciones
