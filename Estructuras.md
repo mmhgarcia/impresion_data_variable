@@ -124,6 +124,8 @@ Clasificación:
    - CODIGO  
    - NOMBRE  
 
+![Definicion de Table en SQL Server](https://github.com/mmhgarcia/impresion_data_variable/blob/master/images/fichero_db.JPG)
+
 <hr />
 
 Estos son los 02 elementos *FUNDAMENTALES* que se utilizan para el manejo de datos en ordenes de **Impresión de Data Variable**
