@@ -1,30 +1,11 @@
 # Spools de Impresión
 
----  
-                                                        FACTURA: 00001    
-NOMBRE APELLIDO                                       FECHA: 99/99/9999    
-DIRECCION1    
-DIRECCION2    
-DIRECCION3    
-ZONA POSTAL    
-    
-MENSAJE AL CLIENTE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  
-MENSAJE AL CLIENTE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  
-MENSAJE AL CLIENTE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  
-  
-CODIGO      NOMBRE                          CANTIDAD      PRECIO    TOTAL  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
-000001      PRODUCTO1                       9999        99999999  9999999  
+Un spool de impresión es una secuencia de caracteres ASII (de datos y de control) generada de tal manera que al ser enviada a la impresora la información quede posicionada,  según se requiera. en el formulario o sustrato utilizado.
 
-NOTA DE ENTREGA                                       SUB TOTAL   9999999  
-NOTA DE ENTREGA                                             IVA   9999999  
-NOTA DE ENTREGA                                           TOTAL   9999999  
+Los spools de impresión son almacenados inicialmente en ficheros y, posteriormente, en bases de datos más no es oligatorio.
+
+**Los caracteres de control no se imprimen**, son solo comandos para la impresora (salto de linea, avance de pagina, caracteres x pulgada, largo de la hoja, entre otros.)
+
 ---  
+
+![Field Mapping](https://github.com/mmhgarcia/impresion_data_variable/blob/master/images/spool.jpg)
