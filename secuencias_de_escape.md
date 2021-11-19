@@ -15,4 +15,14 @@ se requiere el uso de funciones avanzadas, entonces se recurre a las SECUENCIAS 
 
 En la sección **LA IMPRESORA** está el enlace para **DESCARGAR EL MANUAL DEL PROGRAMADOR** donde encontrará el set completo de comandos ESC/P
 
-
+> ## Ejemplos de secuencias de escape de uso frecuente:
+> - ESC@          **Inicializar la impresora**
+> - ESC C 0 n     **Establece largo del formulario en pulgadas** siendo **n** el numero de pulgadas hasta un máximo 22, lo soportado por la DFX-9000
+> - ESC 0         **Select 1/8-inch line spacing**
+> - ESC 2         **Select 1/6-inch line spacing**
+> - ESC 3 n       **Set n/180-inch line spacing**
+> - ESC P         **Select 10 cpi - characters x inch**
+> - ESC M         **Select 12 cpi - characters x inch**
+> - ESC g         **Select 15 cpi - characters x inch**
+> - FF            **FORM FEED**
+> - LF            **LINE FEED**
