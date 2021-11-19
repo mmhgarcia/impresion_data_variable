@@ -34,12 +34,12 @@ Para ver información detallada de los distintos temas, siga los enlaces.
 ## PREPARACION DEL SOFTWARE DE IMPRESIÓN
 
    [Estructuras de datos](https://github.com/mmhgarcia/impresion_data_variable/blob/master/Estructuras.md)
-   
-## Los siguientes enlaces aun no están implementados....
-   
-   [Spools de Impresión]()
 
    [Secuencias de ESCAPE]()
+
+   [Spools de Impresión]()
+
+## Los siguientes enlaces aun no están implementados....
 
    [Secuencias de ESCAPE y Spools de Impresión]()
 
