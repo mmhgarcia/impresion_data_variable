@@ -35,7 +35,7 @@ Para ver información detallada de los distintos temas, siga los enlaces.
 
    [Estructuras de datos](https://github.com/mmhgarcia/impresion_data_variable/blob/master/Estructuras.md)
 
-   [Secuencias de ESCAPE]()
+   [Secuencias de ESCAPE]https://github.com/mmhgarcia/impresion_data_variable/blob/master/secuencias_de_escape.md)
 
    [Spools de Impresión]()
 
