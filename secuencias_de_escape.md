@@ -26,3 +26,5 @@ En la sección **LA IMPRESORA** está el enlace para **DESCARGAR EL MANUAL DEL P
 > - ESC g         **Select 15 cpi - characters x inch**
 > - FF            **FORM FEED**
 > - LF            **LINE FEED**
+
+### [ASCII Tabla de Equivalencia Hexadecimal - Decimal](https://python-reference.readthedocs.io/en/latest/docs/str/ASCII.html)
