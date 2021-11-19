@@ -27,4 +27,26 @@ En la sección **LA IMPRESORA** está el enlace para **DESCARGAR EL MANUAL DEL P
 > - FF            **FORM FEED**
 > - LF            **LINE FEED**
 
-### [ASCII Tabla de Equivalencia Hexadecimal - Decimal](https://python-reference.readthedocs.io/en/latest/docs/str/ASCII.html)
+### [Tabla ASCII de Equivalencia Hexadecimal - Decimal](https://python-reference.readthedocs.io/en/latest/docs/str/ASCII.html)
+
+La utilidad de esa tabla es esta:
+
+La secuencia **ESC@** equivale al **char(27) + chr(64)**
+
+Procedimiento:
+
+  - Ubique el caracter **ESC** en la columna **Hexadecimal**
+  - Manteniendose en la fila encontrada, desplacese hasta la columna titulada **Decimal* y ubicará el valor *27*
+
+  - Ubique el caracter **@** en la columna **Hexadecimal**
+  - Manteniendose en la fila encontrada, desplacese hasta la columna titulada **Decimal* y ubicará el valor *64*
+
+  La secuencia a enviar a la impresora para **inicializarla** es **chr(27) + chr(64)**
+  
+  ### Asi funciona para cualquier secuencia de escape
+  
+---
+  
+Espero esta información le sea de utilidad.
+  
+  
