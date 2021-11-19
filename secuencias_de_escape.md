@@ -13,6 +13,8 @@ se requiere el uso de funciones avanzadas, entonces se recurre a las SECUENCIAS 
 
 *Los comandos de ESC/P se conocen como **secuencias de escape** y es porque muchos comandos comienzan con el carácter 27 de la tabla ASCII. Este carácter no es visible, ni imprimible en pantalla pero, a nivel de las impresoras matriciales, le indica que la secuencia de caracteres siguientes es un comando, y no debe ser tratado como data a ser impresa. Normalmente dicho carácter se representa de este modo: CHR(27).*
 
+![Ejemplo](https://github.com/mmhgarcia/impresion_data_variable/blob/master/images/escp.JPG)
+
 En la sección **LA IMPRESORA** está el enlace para **DESCARGAR EL MANUAL DEL PROGRAMADOR** donde encontrará el set completo de comandos ESC/P
 
 > ## Ejemplos de secuencias de escape de uso frecuente:
