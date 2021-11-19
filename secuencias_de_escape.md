@@ -36,10 +36,10 @@ La secuencia **ESC@** equivale al **char(27) + chr(64)**
 Procedimiento:
 
   - Ubique el caracter **ESC** en la columna **Hexadecimal**
-  - Manteniendose en la fila encontrada, desplacese hasta la columna titulada **Decimal* y ubicará el valor *27*
+  - Manteniendose en la fila encontrada, desplacese hasta la columna titulada **Decimal** y ubicará el valor **27**
 
   - Ubique el caracter **@** en la columna **Hexadecimal**
-  - Manteniendose en la fila encontrada, desplacese hasta la columna titulada **Decimal* y ubicará el valor *64*
+  - Manteniendose en la fila encontrada, desplacese hasta la columna titulada **Decimal** y ubicará el valor **64**
 
   La secuencia a enviar a la impresora para **inicializarla** es **chr(27) + chr(64)**
   
